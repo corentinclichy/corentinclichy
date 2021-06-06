@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Corentin, front-end Developer specialized in React.js and focused on building high-quality project `:relaxed:`
+I'm Corentin, front-end Developer specialized in React.js and focused on building high-quality project :relaxed:
 
 
 <!--
