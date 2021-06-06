@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Corentin, front-end Developer specialized in React.js and focused on building high-quality project `:relaxed:`
+
+
 <!--
 **corentinclichy/corentinclichy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
