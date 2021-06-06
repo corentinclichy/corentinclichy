@@ -32,4 +32,4 @@ I'm Corentin, front-end Developer specialized in React.js and focused on buildin
 
 ## 🌎 Let's connect! 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=ColorName&color=black&link=https://www.linkedin.com/in/zhenniqian/)](https://www.linkedin.com/in/corentinclichy/) <!--
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=ColorName&color=black&link=https://www.linkedin.com/in/zhenniqian/)](https://www.linkedin.com/in/corentinclichy/)
