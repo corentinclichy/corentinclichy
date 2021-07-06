@@ -19,6 +19,9 @@ I'm Corentin, front-end Developer specialized in React.js and focused on buildin
 ![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=Netlify&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Vercel-informational?style=flat&logo=Vercel&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Firbase-informational?style=flat&logo=Firebase&logoColor=ColorName&color=black)
+<br/>
+![](https://img.shields.io/badge/Jest-informational?style=flat&logo=npm&logoColor=ColorName&color=black)
+
 
 
 ## 🌱 Currently learning...
