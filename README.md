@@ -6,6 +6,7 @@ I'm Corentin, front-end Developer specialized in React.js and focused on buildin
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/redux-information?style=flat&logo=Redux&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
 <br/>
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=ColorName&color=black)
@@ -19,7 +20,6 @@ I'm Corentin, front-end Developer specialized in React.js and focused on buildin
 ![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=Netlify&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Vercel-informational?style=flat&logo=Vercel&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Firbase-informational?style=flat&logo=Firebase&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/redux-information?style=flat&logo=Firebase&logoColor=ColorName&color=black)
 
 <br/>
 ![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=ColorName&color=black)
