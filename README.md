@@ -9,14 +9,12 @@ I'm Corentin, front-end Developer specialized in React.js and focused on buildin
 ![](https://img.shields.io/badge/Redux-information?style=flat&logo=Redux&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Strapi-informational?style=flat&logo=Strapi&logoColor=ColorName&color=black)
-
 <br/>
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Style--components-Style--components?style=flat&logo=styled-components&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/figma-informational?style=flat&logo=figma&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=Tailwind&logoColor=ColorName&color=black)
-
 <br/>
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=ColorName&color=black)
@@ -24,7 +22,6 @@ I'm Corentin, front-end Developer specialized in React.js and focused on buildin
 ![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=Netlify&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Vercel-informational?style=flat&logo=Vercel&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Firbase-informational?style=flat&logo=Firebase&logoColor=ColorName&color=black)
-
 <br/>
 ![](https://img.shields.io/badge/Jest-informational?style=flat&logo=Jest&logoColor=ColorName&color=black)
 
