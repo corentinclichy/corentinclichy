@@ -32,8 +32,8 @@ I'm Corentin, front-end Developer specialized in React.js and focused on buildin
 
 ## 🌱 Currently learning...
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Golang-informational?style=flat&logo=Golang&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Express-informational?style=flat&logo=express&logoColor=ColorName&color=black)
 
 ## 📚 Currently reading...
 * **_Learning JavaScript Design Patterns_** / by: Addy Osmani <br/>
