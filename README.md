@@ -14,7 +14,7 @@ I'm Corentin, front-end Developer specialized in React.js and focused on buildin
 ![](https://img.shields.io/badge/Style--components-Style--components?style=flat&logo=styled-components&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/figma-informational?style=flat&logo=figma&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=Tailwind&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Tailwindcss-informational?style=flat&logo=Tailwindcss&logoColor=ColorName&color=black)
 <br/>
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=ColorName&color=black)
