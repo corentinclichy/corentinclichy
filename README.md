@@ -24,6 +24,7 @@ I'm Corentin, front-end Developer specialized in React.js and focused on buildin
 ![](https://img.shields.io/badge/Firbase-informational?style=flat&logo=Firebase&logoColor=ColorName&color=black)
 <br/>
 ![](https://img.shields.io/badge/Jest-informational?style=flat&logo=Jest&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=ColorName&color=black)
 
 
 
